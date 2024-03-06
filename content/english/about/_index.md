@@ -1,9 +1,18 @@
----
-description: this is meta description
-draft: false
-image: /images/avatar.png
-meta_title: About
-title: awo
----
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Websites related to wheat
+====
+<p align="left">1.[WheatOmics](http://wheatomics.sdau.edu.cn/)  
+<p align="left">2.[中国农业大学小麦研究中心](http://wheat.cau.edu.cn/zh/index.html)  
+<p align="left">3.[小麦产业网](https://wheat.100ppi.com/)  
+<p align="left">4.[International Wheat Genome Sequencing Consortium, IWGSC](https://www.wheatgenome.org/)  
+<p align="left">5.[国家农业科学数据中心](https://www.agridata.cn/#/home)  
+<p align="left">6.[Laboratory of wheat abiotic stress tolerance](https://www.iwheat.net/)  
+<p align="left">7.[expVIP](http://www.wheat-expression.com)  
+<p align="left">8.[ WheatExp](https://wheat.pw.usda.gov/WheatExp/)  
+<p align="left">9.[Wheat eFP Browser](https://bar.utoronto.ca/efp_wheat/cgi-bin/efpWeb.cgi)  
+<p align="left">10.[genevestigator](https://www.genevestigator.com)  
+<p align="left">11.[Wheat SnpHub Portal](http://wheat.cau.edu.cn/Wheat_SnpHub_Portal/)  
+<p align="left">12.[Triticeae-GeneTribe (TGT)](http://wheat.cau.edu.cn/TGT/)  
+<p align="left">13.[ Wheat URGI Blast](https://urgi.versailles.inra.fr/blast/?dbgroup=Wheat_all)  
+<p align="left">14.[Wheatis Earlham Blast](https://wheatis.earlham.ac.uk/grassroots-portal/blast)  
+<p align="left">15.[Wheat Panache](https://www.appliedbioinformatics.com.au/wheat_panache/)  
+<p align="left">16.[WheatComp Database](http://wheat.cau.edu.cn/WheatCompDB/)  
